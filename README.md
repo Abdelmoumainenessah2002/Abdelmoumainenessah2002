@@ -7,13 +7,13 @@
 
 <img align="right" alt="Coding" width="400" height="400" src="Avatar.svg">
 
-- 🔭 I’m currently working on [reddit-2.0-clone](https://github.com/Abdelmoumainenessah2002/reddit-2.0-clone)
+- 🔭 I’m currently working on [Mushrif SAAS](https://github.com/Abdelmoumainenessah2002/Mushrif-App-Back-end)
 
-- 🌱 I’m currently learning **Software Development**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available [Here](https://github.com/Abdelmoumainenessah2002?tab=repositories)
 
-- 💬 Ask me about **React, Figma, JavaScript, Python**
+- 💬 Ask me about **ReactJS, NodeJS, typeScript, Python**
 
 - 📫 How to reach me: [Abdelmoumainenessah@gmail.com](mailto:Abdelmoumainenessah@gmail.com)
 
